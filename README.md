@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BounAbdallah
-- 👀 I’m interested in les HTML,CSS,JAVASCRIPT,NODEjs,PHP e autres.
-- 🌱 I’m currently learning le  css,Js ,nodeJs.
+- 👀 I’m interested in les HTML,CSS,django python,.
+- 🌱 I’m currently learning html, css, and django python.
 
 <!---
 BounAbdallah/BounAbdallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
