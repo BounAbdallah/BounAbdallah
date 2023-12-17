@@ -1,5 +1,28 @@
-Passionné de développement web , je suis un débutant en quête de nouvelles expériences.
 
-J'explore constamment de nouveaux outils et technologies pour améliorer mes compétences en programmation et offrir des solutions innovantes pour les projets web. 
 
-Sur ce compte GitHub, vous trouverez mes projets personnels , où j'espère apprendre et collaborer avec d'autres développeurs.
+<div align="center">
+
+# Bienvenue sur mon profil GitHub !
+
+
+</div>
+![Bannière](https://github.com/BounAbdallah/BounAbdallah/blob/main/banniere_github.png)
+
+Je suis passionné(e) par le développement logiciel et j'aime contribuer à des projets open source. N'hésitez pas à explorer mes dépôts pour découvrir mes travaux.
+
+## Technologies que j'aime
+
+- JavaScript
+- Python
+- HTML/CSS
+- ...
+
+## Mes projets
+
+- [Projet 1](lien_vers_projet_1)
+- [Projet 2](lien_vers_projet_2)
+
+N'hésitez pas à me contacter pour discuter de collaborations ou de projets intéressants !
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom&show_icons=true)
+
