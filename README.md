@@ -1,9 +1,11 @@
 <div align="center">
 
-# Bienvenue sur mon profil GitHub !
+# Bienvenue sur mon profil GitHub ! 
 </div>
 
-![Bannière](https://github.com/BounAbdallah/BounAbdallah/main/banniere_github.png)
+
+
+![Bannière](bannière_github.png)
 
 Je suis passionné(e) par le développement logiciel et j'aime contribuer à des projets open source. N'hésitez pas à explorer mes dépôts pour découvrir mes travaux.
 
