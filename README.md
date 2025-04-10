@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Bienvenue sur mon profil GitHub !</h1>
+  <h1>Hello, bienvenue sur mon profil GitHub !</h1>
   <hr>
 </div>
 <br><br>
@@ -8,50 +8,24 @@
   <img src="2.png" alt="Bannière" style="width: 100%; height: auto;">
   <br><br><br>
 
-  Je suis passionné par le développement logiciel et j'aime découvrir de nouvelles choses. <br>
-  N'hésitez pas à explorer mes dépôts pour découvrir mes travaux.
-  
-  <h2>Les technos que j'utilise</h2>
+# 💫 Apropos de  Moi:
+Je suis passionné par le développement logiciel et j'aime découvrir de nouvelles choses.<br>N'hésitez pas à explorer mes dépôts pour découvrir mes travaux.<br><br>Voici les technologies que j’utilise régulièrement dans mes projets :<br><br>Frontend : Je développe principalement avec HTML, CSS, JavaScript, TypeScript, Angular, et Bootstrap pour créer des interfaces utilisateurs interactives et responsives.<br>Backend : Laravel est mon principal choix pour le développement backend. J'ai aussi expérimenté avec Node.js et Express pour des projets fullstack JavaScript, ainsi qu'avec Django pour un projet spécifique. WordPress est également une technologie que j’utilise pour la gestion de contenus et la création de sites web dynamiques.<br>Base de données : J’utilise MySQL pour la gestion des données relationnelles, et je connais aussi MongoDB pour les bases de données NoSQL.<br>Design et Prototypage : J’utilise Figma pour le design d'interfaces et la création de prototypes interactifs.<br>Outils & DevOps : Je suis à l’aise avec Docker pour la conteneurisation des applications et Git pour le contrôle de version. GitHub est ma plateforme principale pour la gestion de code source et la collaboration avec d'autres développeurs. J'utilise aussi Insomnia pour tester et gérer les API.<br>Authentification & Sécurité : J'implémente des systèmes d'authentification sécurisés avec JWT pour la gestion des sessions utilisateur.
 
-  Voici les technologies que j’utilise régulièrement dans mes projets :
 
-  <ul>
-    <li><strong>Frontend</strong> : Je développe principalement avec <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Angular</strong>, et <strong>Bootstrap</strong> pour créer des interfaces utilisateurs interactives et responsives.</li>
-    <li><strong>Backend</strong> : <strong>Laravel</strong> est mon principal choix pour le développement backend. J'ai aussi expérimenté avec <strong>Node.js</strong> et <strong>Express</strong> pour des projets fullstack JavaScript, ainsi qu'avec <strong>Django</strong> pour un projet spécifique. <strong>WordPress</strong> est également une technologie que j’utilise pour la gestion de contenus et la création de sites web dynamiques.</li>
-    <li><strong>Base de données</strong> : J’utilise <strong>MySQL</strong> pour la gestion des données relationnelles, et je connais aussi <strong>MongoDB</strong> pour les bases de données NoSQL.</li>
-    <li><strong>Design et Prototypage</strong> : J’utilise <strong>Figma</strong> pour le design d'interfaces et la création de prototypes interactifs.</li>
-    <li><strong>Outils & DevOps</strong> : Je suis à l’aise avec <strong>Docker</strong> pour la conteneurisation des applications et <strong>Git</strong> pour le contrôle de version. <strong>GitHub</strong> est ma plateforme principale pour la gestion de code source et la collaboration avec d'autres développeurs. J'utilise aussi <strong>Insomnia</strong> pour tester et gérer les API.</li>
-    <li><strong>Authentification & Sécurité</strong> : J'implémente des systèmes d'authentification sécurisés avec <strong>JWT</strong> pour la gestion des sessions utilisateur.</li>
-  </ul>
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript.svg" alt="TypeScript" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg" alt="Angular" width="60" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg" alt="Bootstrap" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg" alt="PHP" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg" alt="Laravel" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" alt="Node.js" width="60" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg" alt="Django" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/wordpress.svg" alt="WordPress" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="MySQL" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Figma" width="60" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git.svg" alt="Git" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github.svg" alt="GitHub" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" alt="Docker" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/insomnia.svg" alt="Insomnia" width="60" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jwt.svg" alt="JWT" width="60" style="margin: 10px;">
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bouna-bin-abdallah-d%C3%A9veloppeurweb-webmobile/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bounabdallah@binabd.com) 
 
-<h2>Mes projets</h2>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BounAbdallah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BounAbdallah&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BounAbdallah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-N'hésitez pas à me contacter pour discuter de collaborations ou de projets intéressants !
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BounAbdallah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BounAbdallah&show_icons=true" alt="Statistiques GitHub">
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=BounAbdallah&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
